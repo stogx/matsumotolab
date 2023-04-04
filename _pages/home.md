@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "Matsumoto Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Matsumoto Lab at TMDU."
 sitemap: false
 permalink: /
 ---
