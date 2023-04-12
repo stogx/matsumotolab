@@ -1,191 +1,42 @@
-#  title:
-#  image: rock.jpg
-#  description:
-#  authors:
-#  link:
-  # url: 
-  # display: 
-#  highlight: 1/0
-#  news1:
-#  news2:
+- # title: "Determination of intracellular ascorbic acid using tandem mass spectrometry"
+  # image: 125.png
+  # description: 2022
+  # journal: Analyst
+  # year: 2022
+  # volume: 147(12)
+  # page: 2640-2643
+  # authors: Chizumi Abe, Ohki Higuchi, Akira Matsumoto, Taiki Miyazawa
+  # url: https://pubs.rsc.org/en/content/articlelanding/2022/an/d1an02160e
+  # doi: 10.1039/d1an02160e
+  # highlight: 1 or 0
+  # news1: <a style="color:#FF0000" href="https://www.nature.com/articles/s41567-021-01468-w">Featured as 'Research Highlight' in Nature Physics by David Abergel</a>
+  # news2: See [Physics World](https://physicsworld.com/a/cooper-pairs-spotted-above-critical-temperature-for-superconductivity/), [SRON news](https://www.sron.nl/news/5169-elektronparen-blijven-stabiel-boven-kritische-temperatuur-supergeleiding), [TU Delft news](https://www.tudelft.nl/en/2021/eemcs/inexplicably-stable-electron-pairs-without-superconductivity), [Leiden news](https://www.universiteitleiden.nl/en/news/2021/10/new-quantum-liquid-discovered).
 
 - title: "Sialic acid biosensing by post-printing modification of PEDOT:PSS with pyridylboronic acid"
   image: 128.png
-  description: 
+  description: A poly(3,4-ethylenedioxythiophene):poly(styrenesulfonate) (PEDOT:PSS)-based conducting polymer, which has biorecognition capabilities, has promising biosensing applications.
   journal: Science and Technology of Advanced Materials
   year: 2022
   volume: 23
   page: 525-534
   authors: Hideki Fujisaki, Akira Matsumoto, Yuji Miyahara, Tatsuro Goda
-  link:
-    url: https://www.tandfonline.com/doi/full/10.1080/14686996.2022.2122867
-    doi: 10.1080/14686996.2022.2122867
+  url: https://www.tandfonline.com/doi/full/10.1080/14686996.2022.2122867
+  doi: 10.1080/14686996.2022.2122867
   highlight: 1
   news1:
   news2:
 
 - title: "Determination of intracellular ascorbic acid using tandem mass spectrometry"
   image: 125.png
-  description: Analyst, 2022, 147(12), 2640-2643
+  description: Ascorbic acid is involved in a variety of biological events. Nevertheless, its detailed intracellular behavior remains unexplored due to a lack of sensitive analytical methods. Here we report a method using HPLC-ESI-MS/MS achieving the lowest detection limit ever reported (1 pg), to provide mechanistic insight into the intracellular ascorbic acid physiology.
+  journal: Analyst
+  year: 2022
+  volume: 147(12)
+  page: 2640-2643
   authors: Chizumi Abe, Ohki Higuchi, Akira Matsumoto, Taiki Miyazawa
-  link:
-    url: https://pubs.rsc.org/en/content/articlelanding/2022/an/d1an02160e
-    display: 10.1039/d1an02160e
+  url: https://pubs.rsc.org/en/content/articlelanding/2022/an/d1an02160e
+  doi: 10.1039/d1an02160e
   highlight: 1
-  news1:
-  news2:
-
-- title: ""
-  image: 
-  description: 
-  authors: 
-  link:
-    url: 
-    display: 
-  highlight: 0
-  news1:
-  news2:
-
-- title: ""
-  image: 
-  description: 
-  authors: 
-  link:
-    url: 
-    display: 
-  highlight: 0
-  news1:
-  news2:
-
-- title: ""
-  image: 
-  description: 
-  authors: 
-  link:
-    url: 
-    display: 
-  highlight: 0
-  news1:
-  news2:
-
-- title: ""
-  image: 
-  description: 
-  authors: 
-  link:
-    url: 
-    display: 
-  highlight: 0
-  news1:
-  news2:
-
-- title: ""
-  image: 
-  description: 
-  authors: 
-  link:
-    url: 
-    display: 
-  highlight: 0
-  news1:
-  news2:
-
-- title: ""
-  image: 
-  description: 
-  authors: 
-  link:
-    url: 
-    display: 
-  highlight: 0
-  news1:
-  news2:
-
-- title: ""
-  image: 
-  description: 
-  authors: 
-  link:
-    url: 
-    display: 
-  highlight: 0
-  news1:
-  news2:
-
-- title: ""
-  image: 
-  description: 
-  authors: 
-  link:
-    url: 
-    display: 
-  highlight: 0
-  news1:
-  news2:
-
-- title: ""
-  image: 
-  description: 
-  authors: 
-  link:
-    url: 
-    display: 
-  highlight: 0
-  news1:
-  news2:
-
-- title: ""
-  image: 
-  description: 
-  authors: 
-  link:
-    url: 
-    display: 
-  highlight: 0
-  news1:
-  news2:
-
-- title: ""
-  image: 
-  description: 
-  authors: 
-  link:
-    url: 
-    display: 
-  highlight: 0
-  news1:
-  news2:
-
-- title: ""
-  image: 
-  description: 
-  authors: 
-  link:
-    url: 
-    display: 
-  highlight: 0
-  news1:
-  news2:
-
-- title: ""
-  image: 
-  description: 
-  authors: 
-  link:
-    url: 
-    display: 
-  highlight: 0
-  news1:
-  news2:
-
-- title: ""
-  image: 
-  description: 
-  authors: 
-  link:
-    url: 
-    display: 
-  highlight: 0
   news1:
   news2:
 
