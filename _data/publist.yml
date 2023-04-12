@@ -11,11 +11,15 @@
 
 - title: "Sialic acid biosensing by post-printing modification of PEDOT:PSS with pyridylboronic acid"
   image: 128.png
-  description: Science and Technology of Advanced Materials, 2022, 23, 525-534
+  description: 
+  journal: Science and Technology of Advanced Materials
+  year: 2022
+  volume: 23
+  page: 525-534
   authors: Hideki Fujisaki, Akira Matsumoto, Yuji Miyahara, Tatsuro Goda
   link:
     url: https://www.tandfonline.com/doi/full/10.1080/14686996.2022.2122867
-    display: 10.1080/14686996.2022.2122867
+    doi: 10.1080/14686996.2022.2122867
   highlight: 0
   news1:
   news2:
