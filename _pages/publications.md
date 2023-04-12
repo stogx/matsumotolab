@@ -26,9 +26,9 @@ permalink: /publications/
 <div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit>{{ publi.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="50%" style="float: left" />
   <p>{{ publi.description }}</p>
-  <p>{{ publi.authors }}</p>
+  <p><em>{{ publi.authors }}</em></p>
   <p><em>{{ publi.journal }}</em>, <strong>{{ publi.year }}</strong>, <em>{{ publi.volume }}</em>, {{ publi.page }}. <a href="{{ publi.url }}">{{ publi.doi }}</a></p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p> {{ publi.news2 }}</p>
@@ -61,9 +61,9 @@ permalink: /publications/
 
 {% for publi in site.data.publist %}
 
-  <pubtit>{{ publi.title }}</pubtit><br />
-  <em>{{ publi.authors }} </em><br />
-  <p><em>{{ publi.journal }}</em>, <strong>{{ publi.year }}</strong>, <em>{{ publi.volume }}</em>, {{ publi.page }}. DOI: <a href="{{ publi.link.url }}">{{ publi.link.doi }}</a></p>
+  <pubtit>{{ publi.title }}</pubtit>
+  <em>{{ publi.authors }} </em>
+  <em>{{ publi.journal }}</em>, <strong>{{ publi.year }}</strong>, <em>{{ publi.volume }}</em>, {{ publi.page }}. DOI: <a href="{{ publi.url }}">{{ publi.doi }}</a>
 
 
 {% endfor %}
