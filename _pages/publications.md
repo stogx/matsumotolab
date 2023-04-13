@@ -60,11 +60,8 @@ permalink: /publications/
 ## Full List of publications
 
 {% for publi in site.data.publist %}
-  <ol reversed>
-    <li>{{ publi.authors }}</li>>
-  </ol>
-       {{ publi.title }}
-      <em>{{ publi.journal }}</em>, <strong>{{ publi.year }}</strong>, <em>{{ publi.volume }}</em>, {{ publi.page }}. DOI: <a href="{{ publi.url }}">{{ publi.doi }}</a>
-
+  {{ publi.number }}  {{ publi.authors }}
+                      {{ publi.title }}
+                      <em>{{ publi.journal }}</em>, <strong>{{ publi.year }}</strong>, <em>{{ publi.volume }}</em>, {{ publi.page }}. DOI: <a href="{{ publi.url }}">{{ publi.doi }}</a>
 
 {% endfor %}
