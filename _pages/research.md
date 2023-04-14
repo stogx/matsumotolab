@@ -1,21 +1,24 @@
 ---
-title: "Allan Lab - Research"
+title: "Matsumoto Lab - Research"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "Matsumoto Lab -- Research"
 sitemap: false
 permalink: /research/
 ---
 
 # Research
 
-Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
+# “On-skin-pancreas” technology for precision medicine in diabetes
+When boronic acid, which binds reversibly to glucose, is introduced into an appropriate polymer gel network, a reversible hydration change is induced associated with dissociation equilibrium shifts of the boronic acid in response to glucose. In synchronization with this, a thin dehydrated and the gel-surface-localized layer called "skin layer" provides a control for insulin release in response to blood glucose levels. Research is underway for the practical application of such totally synthetic "on-skin artificial pancreas" that does not use any machinery or proteins.
 
-Our goal is to build instruments and develop techniques that enable us to address the questions we find most interesting. This is possible thanks also to Milan's broad background with different research themes and technologies: he learned his trade in [Seamus Davis’ SI-STM lab](http://davisgroup.lassp.cornell.edu/) and with [Felix Baumberger](http://dpmc.unige.ch/gr_baumberger/index.html), and later moved as an [ETH fellow](http://www.ethfellows.ethz.ch/) to [Andreas Wallraff’s qudev lab](http://www.qudev.ethz.ch/) where he investigated coupled cavity arrays in circuit QED. We further have group members with different background and interests, working together on physics and instrumentation.
+# Boronic acids-based molecular-recognition chemistry as a platform for diagnostic and therapeutic applications
+Sialic acid (Neu5Ac) is abundant at the carbohydrate ends of cells, and its dynamics are associated with cellular phenomena such as development, differentiation, and disease. In particular, it is universally overexpressed on the surface of cancer cells. Since sialic acid is also present in normal tissues, a tumor environment-specific activation mechanism is required for safe drug targeting. We aim to tackle this problem with boronic acid. Furthermore, we extend our research to cancer stem cell targeted therapy, cancer immunotherapy, boron neutron capture therapy, and extracellular vehicles capture and diagnostic device technology integrated with electronics.
 
-Here are some themes and techniques that we currently work on:
+# Development of protected boronic acids for stimulus-cleavable chemistry and its biomedical applications
+Boronic acids are small molecules that interact with a wide variety of biomolecules, and their binding strength and selectivity are variable in synthetic chemistry. In this theme, we are developing a new cleavage reaction system with reversible molecular recognition capability in water taking advantage of the boronic acid-based protection chemistry. This basic research aims to develop a new class of stimulus-cleavable chemistry platform for a variety of biomedical applications including protein conjugation, design of prodrugs, drug delivery systems as well as self-healing materials. 
 
-**Scanning tunneling noise spectroscopy (STNS).** We have developed a novel cryogenic MHz amplifier that allows us to measure not only the average tunneling current, but also its fluctuation! This has many applications: one can detect the fluctuations of the electronic states, peculiar tunneling processes, and shot noise. We have used this instrument to discover charge trapping in the insulating layer of the cuprates, connected to the c-axis mystery, and to measure the doubling of the charge due to Andreev processes to the superfluid in a lead sample.
-
+# Next-era microneedle technology for easy and reliable multidrug administration at home
+A great unmet need exists for the process by which anyone can take prescribed medications accurately, conveniently, and without pain. We will develop a new transdermal drug delivery system that overcomes the challenges of medication administration to provide safe and secure home healthcare. This technology will not only improve the quality of life of patients, but will also help healthcare professionals.
 
 **Mott physics and high-temperature superconductivity.** Questions of interest include: (i), How does the Mott state collapse upon doping and how is this related to the complex phase diagram of high-temperature superconductors? (ii), What is the strange metal phase seen in correlated electron systems? Is this an exotic long-range entangled state? What is the mechanism of dissipation in that state? (iii), Why is the transition temperature in high-temperature superconductors so high? We have worked on iridates, rhodates, and cuprates.
 
