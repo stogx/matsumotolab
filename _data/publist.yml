@@ -1,17 +1,3 @@
-- # title: "Determination of intracellular ascorbic acid using tandem mass spectrometry"
-  # image: 125.png
-  # description: 2022
-  # journal: Analyst
-  # year: 2022
-  # volume: 147(12)
-  # page: 2640-2643
-  # authors: Chizumi Abe, Ohki Higuchi, Akira Matsumoto, Taiki Miyazawa
-  # url: https://pubs.rsc.org/en/content/articlelanding/2022/an/d1an02160e
-  # doi: 10.1039/d1an02160e
-  # highlight: 1 or 0
-  # news1: <a style="color:#FF0000" href="https://www.nature.com/articles/s41567-021-01468-w">Featured as 'Research Highlight' in Nature Physics by David Abergel</a>
-  # news2: See [Physics World](https://physicsworld.com/a/cooper-pairs-spotted-above-critical-temperature-for-superconductivity/), [SRON news](https://www.sron.nl/news/5169-elektronparen-blijven-stabiel-boven-kritische-temperatuur-supergeleiding), [TU Delft news](https://www.tudelft.nl/en/2021/eemcs/inexplicably-stable-electron-pairs-without-superconductivity), [Leiden news](https://www.universiteitleiden.nl/en/news/2021/10/new-quantum-liquid-discovered).
-
 - number: 128.
   authors: Hideki Fujisaki, Akira Matsumoto, Yuji Miyahara, Tatsuro Goda
   title: "Sialic acid biosensing by post-printing modification of PEDOT:PSS with pyridylboronic acid"
@@ -22,7 +8,7 @@
   url: https://doi.org/10.1080/14686996.2022.2122867
   doi: 10.1080/14686996.2022.2122867
   image: 128.png
-  description: A poly(3,4-ethylenedioxy thiophene):poly(styrenesulfonate) (PEDOT:PSS)-based conducting polymer, which has biorecognition capabilities, has promising biosensing applications.
+  description: A poly(3,4-ethylenedioxythiophene):poly(styrenesulfonate) (PEDOT:PSS)-based conducting polymer, which has biorecognition capabilities, has promising biosensing applications. Previously, we developed a facile method for post-printing chemical modification of PEDOT:PSS thin films from commercial sources. Molecular recognition elements were directly introduced into the PSS side chain by a two-step chemical reaction: introduction of an ethylenediamine linker via an acid chloride reaction of the sulfonate moiety, and subsequent receptor attachment to the linker via amine coupling. In this study, the same method was used to introduce 6-carboxypyridine-3-boronic acid (carboxy-PyBA) into the linker for specifically detecting N-acetylneuraminic acid (sialic acid, SA), as a cancer biomarker. The surface-modified PEDOT:PSS films were characterized by X-ray photoelectron spectroscopy, attenuated total reflection Fourier-transform infrared spectroscopy, and static water contact angle and conductivity measurements. The specific interaction between PyBA and SA was detected by label-free reagent-free potentiometry. The SA-specific negative potential responses of modified PEDOT:PSS electrodes, which was ascribed to an SA carboxyl anion, were observed in a physiologically relevant SA range (1.6–2.9 mM) at pH 5, in a concentration-dependent manner even in the presence of 10% fetal bovine serum. The sensitivity was −2.9 mV/mM in 1–5 mM SA with a limit of detection of 0.7 mM. The sensing performances were almost equivalent to those of existing graphene-based electrical SA sensors. These results show that our chemical derivatization method for printing PEDOT:PSS thin films will have applications in SA clinical diagnostics.
   highlight: 1
   news1:
   news2:
@@ -57,24 +43,24 @@
   news1:
   news2:
 
-- number: 
+- number: 120.
   authors: Hiroaki Hatano, Fanlu Meng, Momoko, Sakata, Akira Matsumoto, Kazuhiko Ishihara, Yuji Miyahara, Tatsuro Goda
   title: "Transepithelial Delivery of Insulin Conjugated with Phospholipid-Mimicking Polymers via Biomembrane Fusion-Mediated Transcellular Pathways"
   journal: Acta Biomaterialia
   year: 2021
-  volume: 
-  page: 
+  volume: 140
+  page: 674-685
   url: https://doi.org/10.1016/j.actbio.2021.12.003
-  doi: 
-  image: .png
+  doi: 10.1016/j.actbio.2021.12.003
+  image: 120.png
   description: Epithelial barriers that seal cell gaps by forming tight junctions to prevent the free permeation of nutrients, electrolytes, and drugs, are essential for maintaining homeostasis in multicellular organisms. The development of nanocarriers that can permeate epithelial tissues without compromising barrier function is key for establishing a safe and efficient drug delivery system (DDS). Previously, we have demonstrated that a water-soluble phospholipid-mimicking random copolymer, poly(2-methacryloyloxyethyl phosphorylcholine30-random-n‑butyl methacrylate70) (PMB30W), enters the cytoplasm of live cells by passive diffusion manners, without damaging the cell membranes. The internalization mechanism was confirmed to be amphiphilicity-induced membrane fusion. In the present study, we demonstrated energy-independent permeation of PMB30W through the model epithelial barriers of Madin-Darby canine kidney (MDCK) cell monolayers in vitro. The polymer penetrated epithelial MDCK monolayers via transcellular pathways without breaching the barrier functions. This was confirmed by our unique assay that can monitor the leakage of the proton as the smallest indicator across the epithelial barriers. Moreover, energy-independent transepithelial permeation was achieved when insulin was chemically conjugated with the phospholipid-mimicking nanocarrier. The bioactivity of insulin as a growth factor was found to be maintained even after translocation. These fundamental findings may aid the establishment of transepithelial DDS with advanced drug efficiency and safety.
-  highlight:
+  highlight: 1
   news1:
   news2:
   
 - number: 
   title: 
-  image: .png
+  image:
   description: 
   journal: 
   year: 
@@ -89,7 +75,7 @@
   
 - number: 
   title: 
-  image: .png
+  image:
   description: 
   journal: 
   year: 
@@ -104,7 +90,7 @@
   
 - number: 
   title: 
-  image: .png
+  image:
   description: 
   journal: 
   year: 
@@ -119,7 +105,7 @@
   
 - number: 
   title: 
-  image: .png
+  image:
   description: 
   journal: 
   year: 
@@ -134,7 +120,7 @@
   
 - number: 
   title: 
-  image: .png
+  image:
   description: 
   journal: 
   year: 
@@ -149,7 +135,7 @@
   
 - number: 
   title: 
-  image: .png
+  image:
   description: 
   journal: 
   year: 
@@ -164,7 +150,7 @@
   
 - number: 
   title: 
-  image: .png
+  image:
   description: 
   journal: 
   year: 

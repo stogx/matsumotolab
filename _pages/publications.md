@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Group highlights
 
-**At the end of this page, you can find the [full list of publications and patents](#full-list-of-publications). All papers are also available on [arXiv](https://arxiv.org/search/?searchtype=author&query=Allan%2C+M+P).**
+**At the end of this page, you can find the [full list of publications](#full-list-of-publications).**
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -27,7 +27,7 @@ permalink: /publications/
  <div class="well">
   <pubtit>{{ publi.title }}</pubtit>
   <em>{{ publi.authors }}</em>
-  <p><img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="100%" style="float: left" /></p>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="100%" style="float: left" />
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.journal }}</em>, <strong>{{ publi.year }}</strong>, <em>{{ publi.volume }}</em>, {{ publi.page }}. <a href="{{ publi.url }}">{{ publi.doi }}</a></p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
