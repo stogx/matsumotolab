@@ -1,4 +1,4 @@
 source 'https://rubygems.org'
 
 gem "jekyll", ">= 3.6.3"
-gem 'jekyll-multiple-languages-plugin'
+gem 'jekyll-language-plugin'
