@@ -27,7 +27,15 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
-languages: ["jp", "en"]
+# not used by plugin but by liquid template
+languages: ['en', 'ja']
+
+gems:
+- jekyll-sitemap
+- jekyll-language-plugin
+
+language_data: data.lang.%%
+language_includes_dir: _i18n
 
 # Markdown Processing
 kramdown:
